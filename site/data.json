@@ -5615,6 +5615,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17494982168",
       "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 12,
+      "name": "Motra - Tuesday Afternoon Machine Shoulder and Core and Lower Body Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17504471988",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10135,11 +10144,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5185.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17504471988"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1230.0
         }
       }
     }
   },
-  "generated_at": "2026-02-23T15:21:55.001153+00:00",
+  "generated_at": "2026-02-24T15:25:22.575753+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

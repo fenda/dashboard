@@ -8110,5 +8110,18 @@
     "start_date_local": "2026-02-23T15:46:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17504471988",
+    "moving_time": 1230.0,
+    "name": "Motra - Tuesday Afternoon Machine Shoulder and Core and Lower Body Focus",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-24T12:26:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
