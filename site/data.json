@@ -5624,6 +5624,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17504471988",
       "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 17,
+      "name": "Zwift - Volcano Circuit CCW in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17507353452",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 13,
+      "name": "Zwift - Waisted 8 in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17517633603",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10061,6 +10079,24 @@
           "distance": 11212.0,
           "elevation_gain": 127.0,
           "moving_time": 1993.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17507353452"
+          ],
+          "count": 1,
+          "distance": 7642.8,
+          "elevation_gain": 37.0,
+          "moving_time": 874.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17517633603"
+          ],
+          "count": 1,
+          "distance": 30905.3,
+          "elevation_gain": 144.0,
+          "moving_time": 3706.0
         }
       },
       "WeightTraining": {
@@ -10157,7 +10193,7 @@
       }
     }
   },
-  "generated_at": "2026-02-24T15:25:22.575753+00:00",
+  "generated_at": "2026-02-25T15:25:32.691166+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

@@ -8123,5 +8123,31 @@
     "start_date_local": "2026-02-24T12:26:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 7642.8,
+    "elevation_gain": 37.0,
+    "id": "17507353452",
+    "moving_time": 874.0,
+    "name": "Zwift - Volcano Circuit CCW in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-24T17:15:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-25",
+    "distance": 30905.3,
+    "elevation_gain": 144.0,
+    "id": "17517633603",
+    "moving_time": 3706.0,
+    "name": "Zwift - Waisted 8 in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-25T13:02:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
