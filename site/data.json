@@ -5642,6 +5642,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17517633603",
       "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 12,
+      "name": "Motra - Thursday Afternoon Machine and Cable Lat, Glute, and Ab Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17528801317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10189,11 +10198,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1230.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "17528801317"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1342.0
         }
       }
     }
   },
-  "generated_at": "2026-02-25T15:25:32.691166+00:00",
+  "generated_at": "2026-02-26T15:22:28.710928+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
