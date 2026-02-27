@@ -8162,5 +8162,18 @@
     "start_date_local": "2026-02-26T12:16:22Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 14205.6,
+    "elevation_gain": 105.0,
+    "id": "17531365227",
+    "moving_time": 1761.0,
+    "name": "Zwift - Rolling Highlands in Scotland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-26T16:26:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
