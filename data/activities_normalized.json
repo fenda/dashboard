@@ -8175,5 +8175,31 @@
     "start_date_local": "2026-02-26T16:26:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 8091.2,
+    "elevation_gain": 56.0,
+    "id": "17543058470",
+    "moving_time": 1249.0,
+    "name": "Zwift - Issendorf Express in New York",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-27T17:14:50Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-28",
+    "distance": 30942.2,
+    "elevation_gain": 378.0,
+    "id": "17550643678",
+    "moving_time": 4593.0,
+    "name": "Zwift - Peaky Pav\u00e9 in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-28T10:39:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
