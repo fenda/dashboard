@@ -8201,5 +8201,18 @@
     "start_date_local": "2026-02-28T10:39:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 20053.8,
+    "elevation_gain": 179.0,
+    "id": "17561629969",
+    "moving_time": 2895.0,
+    "name": "Zwift - #1 Find Your Rhythm",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-01T10:16:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
