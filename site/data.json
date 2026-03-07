@@ -5705,6 +5705,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17590511610",
       "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 14,
+      "name": "Zwift - Flat Route in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17636724512",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10205,6 +10214,15 @@
           "distance": 13056.5,
           "elevation_gain": 48.0,
           "moving_time": 1500.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17636724512"
+          ],
+          "count": 1,
+          "distance": 15120.0,
+          "elevation_gain": 73.0,
+          "moving_time": 1882.0
         }
       },
       "WeightTraining": {
@@ -10319,7 +10337,7 @@
       }
     }
   },
-  "generated_at": "2026-03-06T15:16:30.732369+00:00",
+  "generated_at": "2026-03-07T15:08:05.544271+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

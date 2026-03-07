@@ -8240,5 +8240,18 @@
     "start_date_local": "2026-03-03T18:00:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 15120.0,
+    "elevation_gain": 73.0,
+    "id": "17636724512",
+    "moving_time": 1882.0,
+    "name": "Zwift - Flat Route in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-07T14:59:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
