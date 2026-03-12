@@ -8279,5 +8279,18 @@
     "start_date_local": "2026-03-11T14:52:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17695905679",
+    "moving_time": 906.0,
+    "name": "Motra - Thursday Afternoon Machine and Cable Lat Traps and Adductors Session",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-12T12:42:28Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

@@ -5732,6 +5732,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17685681369",
       "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 12,
+      "name": "Motra - Thursday Afternoon Machine and Cable Lat Traps and Adductors Session",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17695905679",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10369,11 +10378,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2372.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17695905679"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 906.0
         }
       }
     }
   },
-  "generated_at": "2026-03-11T15:21:02.019398+00:00",
+  "generated_at": "2026-03-12T15:24:20.798775+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
