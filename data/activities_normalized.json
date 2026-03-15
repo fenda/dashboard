@@ -8305,5 +8305,18 @@
     "start_date_local": "2026-03-13T14:34:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 45085.0,
+    "elevation_gain": 154.0,
+    "id": "17729811121",
+    "moving_time": 5639.0,
+    "name": "Zwift - Workout 3: Alpecin-Premier Tech Team Camp",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T11:02:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

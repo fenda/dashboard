@@ -5750,6 +5750,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17708969680",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 11,
+      "name": "Zwift - Workout 3: Alpecin-Premier Tech Team Camp",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17729811121",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10286,6 +10295,15 @@
           "distance": 42139.8,
           "elevation_gain": 589.0,
           "moving_time": 6685.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17729811121"
+          ],
+          "count": 1,
+          "distance": 45085.0,
+          "elevation_gain": 154.0,
+          "moving_time": 5639.0
         }
       },
       "WeightTraining": {
@@ -10409,7 +10427,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:10:31.972349+00:00",
+  "generated_at": "2026-03-15T15:11:20.965143+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
