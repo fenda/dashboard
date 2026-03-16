@@ -5759,6 +5759,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17729811121",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 8,
+      "name": "Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17736092859",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 12,
+      "name": "Motra - Monday Afternoon Machine Shoulders and Hip Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17741597293",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10306,6 +10324,17 @@
           "moving_time": 5639.0
         }
       },
+      "Walk": {
+        "2026-03-15": {
+          "activity_ids": [
+            "17736092859"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
+        }
+      },
       "WeightTraining": {
         "2026-01-05": {
           "activity_ids": [
@@ -10423,11 +10452,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 906.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17741597293"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4048.0
         }
       }
     }
   },
-  "generated_at": "2026-03-15T15:11:20.965143+00:00",
+  "generated_at": "2026-03-16T15:29:39.397208+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

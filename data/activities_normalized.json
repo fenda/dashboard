@@ -8318,5 +8318,31 @@
     "start_date_local": "2026-03-15T11:02:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17736092859",
+    "moving_time": 1500.0,
+    "name": "Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-15T08:25:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17741597293",
+    "moving_time": 4048.0,
+    "name": "Motra - Monday Afternoon Machine Shoulders and Hip Focus",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-16T12:28:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
