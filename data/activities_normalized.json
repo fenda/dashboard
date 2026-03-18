@@ -8344,5 +8344,31 @@
     "start_date_local": "2026-03-16T12:28:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 22156.1,
+    "elevation_gain": 48.0,
+    "id": "17766823941",
+    "moving_time": 2546.0,
+    "name": "Zwift - Flat Out Fast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T14:10:33Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 4126.5,
+    "elevation_gain": 74.0,
+    "id": "17766955440",
+    "moving_time": 708.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T14:54:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
