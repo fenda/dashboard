@@ -8396,5 +8396,31 @@
     "start_date_local": "2026-03-21T11:22:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 2152.4,
+    "elevation_gain": 20.6,
+    "id": "17811568653",
+    "moving_time": 1759.0,
+    "name": "The gassi pretzel",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-22T08:56:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 30297.6,
+    "elevation_gain": 180.0,
+    "id": "17815383732",
+    "moving_time": 3968.0,
+    "name": "Zwift - Workout 5: Alpecin-Premier Tech Team Camp",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T12:30:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
