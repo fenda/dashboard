@@ -8422,5 +8422,18 @@
     "start_date_local": "2026-03-22T12:30:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 21281.4,
+    "elevation_gain": 217.0,
+    "id": "17828226538",
+    "moving_time": 3446.0,
+    "name": "Zwift - Foundation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T14:39:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
