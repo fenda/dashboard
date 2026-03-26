@@ -5849,6 +5849,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17828226538",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 6,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17862390266",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17864937108",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10461,6 +10479,16 @@
           "distance": 5181.4,
           "elevation_gain": 50.6,
           "moving_time": 4783.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17862390266",
+            "17864937108"
+          ],
+          "count": 2,
+          "distance": 2259.5,
+          "elevation_gain": 29.0,
+          "moving_time": 2076.0
         }
       },
       "WeightTraining": {
@@ -10593,7 +10621,7 @@
       }
     }
   },
-  "generated_at": "2026-03-25T15:31:29.709617+00:00",
+  "generated_at": "2026-03-26T15:33:55.190074+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
