@@ -5867,6 +5867,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17864937108",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 14,
+      "name": "Zwift - Strength",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17877469417",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 15,
+      "name": "Zwift - Climb Portal: Paterberg at 100% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17877582519",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10458,6 +10476,16 @@
           "distance": 21281.4,
           "elevation_gain": 217.0,
           "moving_time": 3446.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17877469417",
+            "17877582519"
+          ],
+          "count": 2,
+          "distance": 31408.699999999997,
+          "elevation_gain": 111.0,
+          "moving_time": 4106.0
         }
       },
       "Walk": {
@@ -10621,7 +10649,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T15:33:55.190074+00:00",
+  "generated_at": "2026-03-27T15:21:59.436978+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

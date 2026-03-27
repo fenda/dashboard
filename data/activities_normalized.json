@@ -8474,5 +8474,31 @@
     "start_date_local": "2026-03-26T13:28:49Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 27740.1,
+    "elevation_gain": 54.0,
+    "id": "17877469417",
+    "moving_time": 3503.0,
+    "name": "Zwift - Strength",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T14:40:54Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 3668.6,
+    "elevation_gain": 57.0,
+    "id": "17877582519",
+    "moving_time": 603.0,
+    "name": "Zwift - Climb Portal: Paterberg at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T15:41:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
