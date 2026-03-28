@@ -5885,6 +5885,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17877582519",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 13,
+      "name": "Zwift - Foundation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17888641187",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10486,6 +10495,15 @@
           "distance": 31408.699999999997,
           "elevation_gain": 111.0,
           "moving_time": 4106.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17888641187"
+          ],
+          "count": 1,
+          "distance": 30168.3,
+          "elevation_gain": 150.0,
+          "moving_time": 3802.0
         }
       },
       "Walk": {
@@ -10649,7 +10667,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T15:21:59.436978+00:00",
+  "generated_at": "2026-03-28T15:12:09.436506+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
