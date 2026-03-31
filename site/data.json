@@ -5903,6 +5903,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17912469533",
       "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17915732479",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10682,10 +10691,21 @@
           "elevation_gain": 0.0,
           "moving_time": 4048.0
         }
+      },
+      "Workout": {
+        "2026-03-30": {
+          "activity_ids": [
+            "17915732479"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 482.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-30T15:34:09.143219+00:00",
+  "generated_at": "2026-03-31T15:31:48.490369+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
