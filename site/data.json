@@ -5912,6 +5912,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17915732479",
       "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 10,
+      "name": "Motra - Wednesday Morning Machine and Cable Back Shoulders and Glutes",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17935097008",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10690,6 +10699,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4048.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17935097008"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1961.0
         }
       },
       "Workout": {
@@ -10705,7 +10723,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T15:31:48.490369+00:00",
+  "generated_at": "2026-04-01T15:34:12.988955+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
