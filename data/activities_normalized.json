@@ -8565,5 +8565,44 @@
     "start_date_local": "2026-04-02T07:13:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 25345.6,
+    "elevation_gain": 181.0,
+    "id": "17962032055",
+    "moving_time": 3336.0,
+    "name": "Zwift - Foundation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T14:08:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17962475485",
+    "moving_time": 996.0,
+    "name": "Motra - Friday Afternoon Kettlebell and Cable Full Body Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-03T15:18:12Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17962517287",
+    "moving_time": 264.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-03T15:35:26Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
