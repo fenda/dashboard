@@ -8604,5 +8604,31 @@
     "start_date_local": "2026-04-03T15:35:26Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 999.5,
+    "elevation_gain": 0.0,
+    "id": "17970222270",
+    "moving_time": 502.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T08:32:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 22576.7,
+    "elevation_gain": 33.0,
+    "id": "17975405956",
+    "moving_time": 2749.0,
+    "name": "Zwift - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T15:13:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

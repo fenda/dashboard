@@ -5957,6 +5957,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17962517287",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17970222270",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 15,
+      "name": "Zwift - Active Recovery",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17975405956",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10585,6 +10603,15 @@
           "distance": 25345.6,
           "elevation_gain": 181.0,
           "moving_time": 3336.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17975405956"
+          ],
+          "count": 1,
+          "distance": 22576.7,
+          "elevation_gain": 33.0,
+          "moving_time": 2749.0
         }
       },
       "Walk": {
@@ -10625,6 +10652,15 @@
           "distance": 1686.9,
           "elevation_gain": 13.1,
           "moving_time": 1589.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17970222270"
+          ],
+          "count": 1,
+          "distance": 999.5,
+          "elevation_gain": 0.0,
+          "moving_time": 502.0
         }
       },
       "WeightTraining": {
@@ -10795,7 +10831,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:19:56.204268+00:00",
+  "generated_at": "2026-04-04T15:12:42.116511+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
