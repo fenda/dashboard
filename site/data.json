@@ -5975,6 +5975,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17975405956",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 13,
+      "name": "Zwift - Strength",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17987217669",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10612,6 +10621,15 @@
           "distance": 22576.7,
           "elevation_gain": 33.0,
           "moving_time": 2749.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17987217669"
+          ],
+          "count": 1,
+          "distance": 35930.9,
+          "elevation_gain": 55.0,
+          "moving_time": 4443.0
         }
       },
       "Walk": {
@@ -10831,7 +10849,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:12:42.116511+00:00",
+  "generated_at": "2026-04-05T15:13:35.234445+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
