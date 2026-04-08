@@ -6011,6 +6011,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18012741514",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 11,
+      "name": "Motra - Wednesday Morning Machine Hips Chest and Lat Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18024263498",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10879,6 +10888,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 996.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18024263498"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1182.0
         }
       },
       "Workout": {
@@ -10903,7 +10921,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T15:35:17.424083+00:00",
+  "generated_at": "2026-04-08T15:35:44.969206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

@@ -8682,5 +8682,18 @@
     "start_date_local": "2026-04-07T13:20:48Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18024263498",
+    "moving_time": 1182.0,
+    "name": "Motra - Wednesday Morning Machine Hips Chest and Lat Focus",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-08T11:23:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
