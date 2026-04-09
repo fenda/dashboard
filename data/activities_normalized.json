@@ -8695,5 +8695,44 @@
     "start_date_local": "2026-04-08T11:23:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18028968949",
+    "moving_time": 611.0,
+    "name": "Motra - Wednesday Evening Upper Body and Abs with Dumbbells and EZ-Bar",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-08T17:50:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 2005.9,
+    "elevation_gain": 0.0,
+    "id": "18037118744",
+    "moving_time": 2349.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-09T07:17:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18037942775",
+    "moving_time": 1588.0,
+    "name": "Motra - Thursday Morning Machine Core Glutes and Triceps Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-09T10:43:32Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
