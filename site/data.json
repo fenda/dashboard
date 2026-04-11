@@ -6056,6 +6056,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18044284799",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 9,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18062227282",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "name": "Zwift - Foundation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18067684877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10720,6 +10738,15 @@
           "distance": 45432.2,
           "elevation_gain": 70.0,
           "moving_time": 5527.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18067684877"
+          ],
+          "count": 1,
+          "distance": 35066.8,
+          "elevation_gain": 54.0,
+          "moving_time": 4113.0
         }
       },
       "Walk": {
@@ -10788,6 +10815,15 @@
           "distance": 3830.2,
           "elevation_gain": 20.0,
           "moving_time": 3866.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18062227282"
+          ],
+          "count": 1,
+          "distance": 2486.6,
+          "elevation_gain": 15.0,
+          "moving_time": 2211.0
         }
       },
       "WeightTraining": {
@@ -10977,7 +11013,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:22:27.936924+00:00",
+  "generated_at": "2026-04-11T15:14:29.002464+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
