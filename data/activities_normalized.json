@@ -8773,5 +8773,31 @@
     "start_date_local": "2026-04-11T15:46:51Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 28024.1,
+    "elevation_gain": 186.0,
+    "id": "18081527408",
+    "moving_time": 3775.0,
+    "name": "Zwift - Intermittent",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T16:13:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18088825510",
+    "moving_time": 1863.0,
+    "name": "Motra - Monday Morning Machine Focus for Shoulders Glutes and Core",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T11:04:28Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
