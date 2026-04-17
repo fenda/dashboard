@@ -8825,5 +8825,44 @@
     "start_date_local": "2026-04-16T07:11:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 30367.4,
+    "elevation_gain": 254.0,
+    "id": "18134128596",
+    "moving_time": 4318.0,
+    "name": "Zwift - Foundation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T17:25:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18140433079",
+    "moving_time": 589.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-17T06:03:48Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18143366363",
+    "moving_time": 1666.0,
+    "name": "Motra - Friday Afternoon Machine Chest Shoulders and Lower Body Focus",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-17T12:35:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

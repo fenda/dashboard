@@ -6110,6 +6110,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18127729132",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 17,
+      "name": "Zwift - Foundation",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18134128596",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 6,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18140433079",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 12,
+      "name": "Motra - Friday Afternoon Machine Chest Shoulders and Lower Body Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18143366363",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10792,6 +10819,15 @@
           "distance": 28024.1,
           "elevation_gain": 186.0,
           "moving_time": 3775.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18134128596"
+          ],
+          "count": 1,
+          "distance": 30367.4,
+          "elevation_gain": 254.0,
+          "moving_time": 4318.0
         }
       },
       "Walk": {
@@ -11061,6 +11097,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2477.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18143366363"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1666.0
         }
       },
       "Workout": {
@@ -11081,11 +11126,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 264.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18140433079"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 589.0
         }
       }
     }
   },
-  "generated_at": "2026-04-16T15:37:50.830484+00:00",
+  "generated_at": "2026-04-17T15:28:12.438409+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
