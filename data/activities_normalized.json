@@ -8864,5 +8864,18 @@
     "start_date_local": "2026-04-17T12:35:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 24908.4,
+    "elevation_gain": 396.0,
+    "id": "18146513422",
+    "moving_time": 4490.0,
+    "name": "Zwift - Tempo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-17T16:26:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

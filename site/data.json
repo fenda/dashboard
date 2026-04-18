@@ -6137,6 +6137,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18143366363",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 16,
+      "name": "Zwift - Tempo",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18146513422",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10828,6 +10837,15 @@
           "distance": 30367.4,
           "elevation_gain": 254.0,
           "moving_time": 4318.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18146513422"
+          ],
+          "count": 1,
+          "distance": 24908.4,
+          "elevation_gain": 396.0,
+          "moving_time": 4490.0
         }
       },
       "Walk": {
@@ -11139,7 +11157,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:28:12.438409+00:00",
+  "generated_at": "2026-04-18T15:17:48.994258+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
