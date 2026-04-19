@@ -8877,5 +8877,44 @@
     "start_date_local": "2026-04-17T16:26:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18168031346",
+    "moving_time": 727.0,
+    "name": "Motra - Sunday Morning Machine Chest and Shoulder Press with Triceps",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-19T10:44:45Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 1494.0,
+    "elevation_gain": 0.0,
+    "id": "18168295655",
+    "moving_time": 1199.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-19T10:59:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18168549536",
+    "moving_time": 539.0,
+    "name": "Motra - Sunday Morning Machine Ab Crunch and Obliques",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-19T11:21:08Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
