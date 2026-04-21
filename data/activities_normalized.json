@@ -8916,5 +8916,44 @@
     "start_date_local": "2026-04-19T11:21:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18194625526",
+    "moving_time": 2170.0,
+    "name": "Motra - Tuesday Morning Machine and Cable Full Body Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T10:56:15Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 17809.5,
+    "elevation_gain": 117.0,
+    "id": "18198798331",
+    "moving_time": 2556.0,
+    "name": "Zwift - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T16:21:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18198815501",
+    "moving_time": 2517.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T16:23:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
