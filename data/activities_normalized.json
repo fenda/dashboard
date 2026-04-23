@@ -8955,5 +8955,44 @@
     "start_date_local": "2026-04-21T16:23:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 2857.6,
+    "elevation_gain": 34.0,
+    "id": "18221497898",
+    "moving_time": 2406.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-23T07:12:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18225285139",
+    "moving_time": 3863.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T12:59:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 26588.8,
+    "elevation_gain": 237.0,
+    "id": "18225420634",
+    "moving_time": 4483.0,
+    "name": "Zwift - Foundation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-23T12:59:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
