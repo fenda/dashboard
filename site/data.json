@@ -6227,6 +6227,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18225420634",
       "year": 2026
+    },
+    {
+      "date": "2026-04-26",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18260815163",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11069,6 +11078,15 @@
           "distance": 2857.6,
           "elevation_gain": 34.0,
           "moving_time": 2406.0
+        },
+        "2026-04-26": {
+          "activity_ids": [
+            "18260815163"
+          ],
+          "count": 1,
+          "distance": 3159.8,
+          "elevation_gain": 30.6,
+          "moving_time": 2923.0
         }
       },
       "WeightTraining": {
@@ -11313,7 +11331,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:18:58.593897+00:00",
+  "generated_at": "2026-04-26T15:19:14.865809+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
