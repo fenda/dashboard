@@ -9046,5 +9046,44 @@
     "start_date_local": "2026-04-28T16:33:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 1716.4,
+    "elevation_gain": 7.4,
+    "id": "18315289298",
+    "moving_time": 1034.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-30T07:42:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18317244277",
+    "moving_time": 607.0,
+    "name": "Lunch Stair-Stepper",
+    "raw_activity_type": "StairStepper",
+    "raw_type": "StairStepper",
+    "start_date_local": "2026-04-30T12:28:03Z",
+    "type": "StairStepper",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18317593392",
+    "moving_time": 1440.0,
+    "name": "Motra - Thursday Afternoon Machine and Cable Upper Body and Hip Focus",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-30T12:40:30Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

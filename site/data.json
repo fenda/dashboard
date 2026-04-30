@@ -6263,6 +6263,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18301090896",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18315289298",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 12,
+      "name": "Lunch Stair-Stepper",
+      "subtype": "StairStepper",
+      "type": "StairStepper",
+      "url": "https://www.strava.com/activities/18317244277",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 12,
+      "name": "Motra - Thursday Afternoon Machine and Cable Upper Body and Hip Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18317593392",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10512,6 +10539,17 @@
           "moving_time": 3863.0
         }
       },
+      "StairStepper": {
+        "2026-04-30": {
+          "activity_ids": [
+            "18317244277"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 607.0
+        }
+      },
       "VirtualRide": {
         "2026-01-11": {
           "activity_ids": [
@@ -11133,6 +11171,15 @@
           "distance": 2410.0,
           "elevation_gain": 0.0,
           "moving_time": 1800.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18315289298"
+          ],
+          "count": 1,
+          "distance": 1716.4,
+          "elevation_gain": 7.4,
+          "moving_time": 1034.0
         }
       },
       "WeightTraining": {
@@ -11344,6 +11391,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2170.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18317593392"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1440.0
         }
       },
       "Workout": {
@@ -11377,7 +11433,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T15:44:35.023134+00:00",
+  "generated_at": "2026-04-30T15:39:38.665161+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
@@ -11399,6 +11455,10 @@
     "Run": {
       "accent": "#01cdfe",
       "label": "Run"
+    },
+    "StairStepper": {
+      "accent": "#fee440",
+      "label": "Stair Stepper"
     },
     "VirtualRide": {
       "accent": "#fee440",
@@ -11422,6 +11482,7 @@
     "Hike",
     "Ride",
     "Run",
+    "StairStepper",
     "VirtualRide",
     "Walk",
     "WeightTraining",
