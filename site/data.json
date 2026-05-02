@@ -6290,6 +6290,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18317593392",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 17,
+      "name": "Motra - Friday Evening Dumbbell Upper Body and Traps",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18335055687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11400,6 +11409,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1440.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18335055687"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 566.0
         }
       },
       "Workout": {
@@ -11433,7 +11451,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:26:00.553551+00:00",
+  "generated_at": "2026-05-02T15:20:10.240081+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
