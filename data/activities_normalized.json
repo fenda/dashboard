@@ -9111,5 +9111,18 @@
     "start_date_local": "2026-05-01T19:09:16Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 24566.8,
+    "elevation_gain": 310.0,
+    "id": "18453195928",
+    "moving_time": 4123.0,
+    "name": "Zwift - Endurance Building Blocks",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-10T14:55:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
