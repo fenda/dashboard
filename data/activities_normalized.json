@@ -9124,5 +9124,18 @@
     "start_date_local": "2026-05-10T14:55:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 6507.1,
+    "elevation_gain": 89.0,
+    "id": "18490198845",
+    "moving_time": 1176.0,
+    "name": "Zwift - EF Pro Cycling's Red Day Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T14:15:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

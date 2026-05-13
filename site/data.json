@@ -6317,6 +6317,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18453195928",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 14,
+      "name": "Zwift - EF Pro Cycling's Red Day Workout",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18490198845",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11085,6 +11094,15 @@
           "distance": 24566.8,
           "elevation_gain": 310.0,
           "moving_time": 4123.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18490198845"
+          ],
+          "count": 1,
+          "distance": 6507.1,
+          "elevation_gain": 89.0,
+          "moving_time": 1176.0
         }
       },
       "Walk": {
@@ -11487,7 +11505,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T15:53:13.370720+00:00",
+  "generated_at": "2026-05-13T15:56:19.787309+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
