@@ -6362,6 +6362,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18553460725",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 20,
+      "name": "Motra - Monday Evening Dumbbell Triceps Biceps and Shoulders",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18558971394",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18559034830",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18568866609",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11306,6 +11333,24 @@
           "distance": 3014.6,
           "elevation_gain": 35.6,
           "moving_time": 3183.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18559034830"
+          ],
+          "count": 1,
+          "distance": 483.3,
+          "elevation_gain": 5.2,
+          "moving_time": 514.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18568866609"
+          ],
+          "count": 1,
+          "distance": 2271.9,
+          "elevation_gain": 15.9,
+          "moving_time": 2011.0
         }
       },
       "WeightTraining": {
@@ -11538,12 +11583,13 @@
         },
         "2026-05-18": {
           "activity_ids": [
-            "18553460725"
+            "18553460725",
+            "18558971394"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 1584.0
+          "moving_time": 1949.0
         }
       },
       "Workout": {
@@ -11577,7 +11623,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T16:11:36.884015+00:00",
+  "generated_at": "2026-05-19T16:09:44.933932+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
