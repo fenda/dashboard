@@ -6389,6 +6389,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18568866609",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18570967011",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11345,12 +11354,13 @@
         },
         "2026-05-19": {
           "activity_ids": [
-            "18568866609"
+            "18568866609",
+            "18570967011"
           ],
-          "count": 1,
-          "distance": 2271.9,
-          "elevation_gain": 15.9,
-          "moving_time": 2011.0
+          "count": 2,
+          "distance": 3790.7,
+          "elevation_gain": 28.9,
+          "moving_time": 3194.0
         }
       },
       "WeightTraining": {
@@ -11623,7 +11633,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T16:09:44.933932+00:00",
+  "generated_at": "2026-05-20T16:14:47.526333+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
