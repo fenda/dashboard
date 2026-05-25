@@ -6434,6 +6434,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18623720885",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18643748839",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 11,
+      "name": "Motra - Monday Morning Upper Body Dumbbell and Cable Focus",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18645089123",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 15,
+      "name": "Zwift - Volcano Climb in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18648122704",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11229,6 +11256,15 @@
           "distance": 10282.7,
           "elevation_gain": 107.0,
           "moving_time": 1853.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18648122704"
+          ],
+          "count": 1,
+          "distance": 23662.8,
+          "elevation_gain": 203.0,
+          "moving_time": 3165.0
         }
       },
       "Walk": {
@@ -11433,6 +11469,15 @@
           "distance": 3150.6,
           "elevation_gain": 38.4,
           "moving_time": 3058.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18643748839"
+          ],
+          "count": 1,
+          "distance": 3377.6,
+          "elevation_gain": 32.8,
+          "moving_time": 3136.0
         }
       },
       "WeightTraining": {
@@ -11672,6 +11717,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1949.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18645089123"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1158.0
         }
       },
       "Workout": {
@@ -11705,7 +11759,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:29:25.814149+00:00",
+  "generated_at": "2026-05-25T15:59:48.254193+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
