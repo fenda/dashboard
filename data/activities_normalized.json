@@ -9332,5 +9332,18 @@
     "start_date_local": "2026-05-25T15:00:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 11019.4,
+    "elevation_gain": 106.0,
+    "id": "18659973730",
+    "moving_time": 1826.0,
+    "name": "Zwift - Silk Road",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T13:12:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

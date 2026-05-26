@@ -6461,6 +6461,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18648122704",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 13,
+      "name": "Zwift - Silk Road",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18659973730",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11265,6 +11274,15 @@
           "distance": 23662.8,
           "elevation_gain": 203.0,
           "moving_time": 3165.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18659973730"
+          ],
+          "count": 1,
+          "distance": 11019.4,
+          "elevation_gain": 106.0,
+          "moving_time": 1826.0
         }
       },
       "Walk": {
@@ -11759,7 +11777,7 @@
       }
     }
   },
-  "generated_at": "2026-05-25T15:59:48.254193+00:00",
+  "generated_at": "2026-05-26T16:24:18.568436+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
