@@ -6470,6 +6470,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18659973730",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 11,
+      "name": "Motra - Wednesday Morning Full Body Machine and Cable Strength",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18672460186",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11744,6 +11753,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1158.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18672460186"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1652.0
         }
       },
       "Workout": {
@@ -11777,7 +11795,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T16:24:18.568436+00:00",
+  "generated_at": "2026-05-27T16:20:55.722871+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",

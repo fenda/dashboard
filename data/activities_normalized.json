@@ -9345,5 +9345,18 @@
     "start_date_local": "2026-05-26T13:12:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18672460186",
+    "moving_time": 1652.0,
+    "name": "Motra - Wednesday Morning Full Body Machine and Cable Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-27T11:02:09Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
