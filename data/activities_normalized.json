@@ -9449,5 +9449,18 @@
     "start_date_local": "2026-05-31T08:39:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18739398395",
+    "moving_time": 2491.0,
+    "name": "Motra - Monday Morning Upper Body Machine and Cable Glute Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-01T11:13:03Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
