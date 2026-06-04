@@ -9462,5 +9462,18 @@
     "start_date_local": "2026-06-01T11:13:03Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 10096.7,
+    "elevation_gain": 193.0,
+    "id": "18784181009",
+    "moving_time": 1924.0,
+    "name": "Zwift - Balance Point",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T15:28:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

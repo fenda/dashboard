@@ -6551,6 +6551,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18739398395",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 15,
+      "name": "Zwift - Balance Point",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18784181009",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11373,6 +11382,15 @@
           "distance": 56081.2,
           "elevation_gain": 355.0,
           "moving_time": 7880.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18784181009"
+          ],
+          "count": 1,
+          "distance": 10096.7,
+          "elevation_gain": 193.0,
+          "moving_time": 1924.0
         }
       },
       "Walk": {
@@ -11931,7 +11949,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T16:34:13.115269+00:00",
+  "generated_at": "2026-06-04T16:11:03.478936+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/460091",
   "repo": "fenda/dashboard",
