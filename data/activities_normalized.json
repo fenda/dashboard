@@ -9566,5 +9566,18 @@
     "start_date_local": "2026-06-08T10:14:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 21157.1,
+    "elevation_gain": 59.0,
+    "id": "19081859528",
+    "moving_time": 2900.0,
+    "name": "Zwift - Tick Tock in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-27T08:45:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
